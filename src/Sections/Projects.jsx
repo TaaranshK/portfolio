@@ -6,7 +6,7 @@ import {
   motion,
 } from "framer-motion";
 
-import FitpulseDesktop from "../assets/fitPulse.png";
+import FitpulseDesktop from "../assets/fitpulse.png";
 import FitpulseMobileVertical from "../assets/fitpulse_vertical.png"; // NEW MOBILE POSTER IMAGE
 
 
