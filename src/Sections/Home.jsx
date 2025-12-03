@@ -184,8 +184,9 @@ text-5xl sm:text-6xl md:text-7xl lg:text-8xl whitespace-nowrap">
               </a>
 
               <a
-                href="/Taaransh Resume-1.pdf"
-                download
+                href="https://drive.google.com/file/d/1svqZlPVfwrlNRl8DCm3w6_5A6yHarZUF/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="px-6 py-3 rounded-full text-lg font-medium text-black 
                 bg-white hover:bg-gray-200 shadow-lg hover:scale-105 transition-all"
               >
