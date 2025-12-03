@@ -1,5 +1,5 @@
 // Import the animated particle background
-import ParticlesBackground from "../Components/ParticlesBackground";
+import ParticlesBackground from "../components/ParticlesBackground";
 
 // Import animation tools from Framer Motion
 import { motion } from "framer-motion";

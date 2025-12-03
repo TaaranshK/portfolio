@@ -1,9 +1,9 @@
 import React from "react";
 
 // COMPONENT IMPORTS
-import Navbar from "./Components/Navbar";
-import CustomCursor from "./Components/CustomCursor";
-import IntroAnimation from "./Components/IntroAnimation"; // Fixed spelling
+import Navbar from "./components/Navbar.jsx";
+import CustomCursor from "./components/CustomCursor";
+import IntroAnimation from "./components/IntroAnimation"; // Fixed spelling
 
 // SECTION IMPORTS
 import Home from "./Sections/Home";
