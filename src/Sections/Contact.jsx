@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Particlesbackground from "../components/ParticlesBackground.jsx";
+import ParticlesBackground from "../components/ParticlesBackground.jsx";
 import emailjs from "@emailjs/browser";
 import { motion } from "framer-motion";
 import Astra from "../assets/astra.png";   // ✅ FIXED IMAGE IMPORT
