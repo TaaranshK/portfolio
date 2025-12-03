@@ -1,5 +1,5 @@
 import { useEffect, useState, useRef } from "react";
-import Logo from "../assets/Logo.png";
+import Logo from "../assets/logo.png";
 import OverlayMenu from "./OverlayMenu";
 import { FiMenu } from "react-icons/fi";
 

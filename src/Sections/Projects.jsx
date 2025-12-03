@@ -6,8 +6,8 @@ import {
   motion,
 } from "framer-motion";
 
-import FitpulseDesktop from "../assets/FitPulse.png";
-import FitpulseMobileVertical from "../assets/Fitpulse_vertical.png"; // NEW MOBILE POSTER IMAGE
+import FitpulseDesktop from "../assets/fitPulse.png";
+import FitpulseMobileVertical from "../assets/fitpulse_vertical.png"; // NEW MOBILE POSTER IMAGE
 
 
 // ----------------------
